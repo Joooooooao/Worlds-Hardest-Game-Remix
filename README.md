@@ -1,6 +1,7 @@
 Cada objeto terá um conjunto arquivo .gml, que pode ser aberto com o bloco de notas ou o VSCode.
+
 Create:
-se trata as variáveis criadas imediatamente após a criação do objeto no jogo.
+se trata das variáveis criadas imediatamente após a criação do objeto no jogo.
 
 Step: 
 se trata de um código que é executado a cada frame, que manipula tanto as variáveis declaradas no Create quanto as que são declaradas a cada frame.
