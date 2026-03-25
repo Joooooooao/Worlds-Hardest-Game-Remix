@@ -1,4 +1,5 @@
 Cada objeto conterá um conjunto de arquivos .gml, formato que pode ser aberto com o bloco de notas ou com o VSCode.
+
 GML é a linguagem própria do GameMaker, software de criação de jogos utilizado neste projeto.
 
 Create:
