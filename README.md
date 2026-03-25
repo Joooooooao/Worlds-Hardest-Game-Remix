@@ -1,4 +1,4 @@
-Cada objeto terá um conjunto arquivo .gml, que pode ser aberto com o bloco de notas ou o VSCode.
+Cada objeto conterá um conjunto de arquivos .gml, formato que pode ser aberto com o bloco de notas ou com o VSCode.
 
 Create:
 se trata das variáveis criadas imediatamente após a criação do objeto no jogo.
